@@ -1,0 +1,4 @@
+scenario_id,scenario_name,demand_factor,probability
+S1,Normal Day,1.0,0.85
+S2,Elevated Activity,1.5,0.1
+S3,Mass Casualty Event,4.5,0.05
